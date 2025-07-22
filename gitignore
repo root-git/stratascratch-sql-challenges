@@ -1,1 +1,3 @@
-
+# Jupyter/Colab-related
+.ipynb_checkpoints/
+*.ipynb~
