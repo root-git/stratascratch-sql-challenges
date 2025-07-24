@@ -1,4 +1,4 @@
-# Mastering Hard StrataScratch SQL Interview Questions with 
+# Mastering Hard StrataScratch SQL Interview Questions  
 
 ## Introduction
 
