@@ -4,7 +4,7 @@
 
 This project began as a personal initiative to prepare for SQL interviews. With several years of experience as a data analyst and frequent use of SQL in my daily work, I expected to breeze through the questions.
 
-However, when tackling **StrataScratch's hard-level SQL challenges**, I quickly realized that my struggle wasn’t in writing SQL syntax — it was in **breaking complex questions into smaller, logical parts** and solving each part step by step before stitching them together into a complete solution.
+However, when tackling **StrataScratch's hard-level SQL challenges**, I quickly realized that my struggle wasn’t in writing SQL syntax. It was in **breaking complex questions into smaller, logical parts** and solving each part step by step before stitching them together into a complete solution.
 
 By identifying this gap, I developed a more strategic and methodical approach. Over time, I was able to solve hard questions more smoothly, consistently, and confidently.
 
