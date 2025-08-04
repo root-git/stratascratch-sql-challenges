@@ -1,34 +1,43 @@
 # Mastering Hard StrataScratch SQL Interview Questions  
 
-## Introduction
+## Overview
 
-This project began as a personal initiative to prepare for SQL interviews. With several years of experience as a data analyst and frequent use of SQL in my daily work, I expected to breeze through the questions.
+This project began as a personal challenge to improve my SQL skills for interviews. But it quickly evolved into a deeper question:
+How can technically complex SQL problems be reframed as business-driven questions?
 
-However, when tackling **StrataScratch's hard-level SQL challenges**, I quickly realized that my struggle wasn’t in writing SQL syntax. It was in **breaking complex questions into smaller, logical parts** and solving each part step by step before stitching them together into a complete solution.
+Most SQL interview prompts emphasize logic and data manipulation. But in real-world analytics roles, stakeholders rarely ask for queries. They ask questions rooted in business goals.
 
-By identifying this gap, I developed a more strategic and methodical approach. Over time, I was able to solve hard questions more smoothly, consistently, and confidently.
+I reimagined classic SQL interview challenges by framing each one as a real business request. The goal is to demonstrate how analysts can move beyond technical correctness and deliver insights that drive decisions.
 
-## Why This Matters
+## Why This Project Matters
 
-If you're also preparing for SQL interviews or learning how to approach complex SQL problems, I hope this project gives you:
-- A real-world lens on how to **think like a problem solver**, not just a query writer
-- Examples of **clean, well-documented solutions**
-- A repeatable method to break down and tackle any tough SQL challenge
+As a senior data analyst, I already understood SQL syntax. But technical skill alone isn’t enough. To make a real impact, you need to:
 
-Let’s level up our SQL skills — one challenge at a time.
+- Understand the business motivation behind a question
+- Break down complex data problems into manageable components
+- Translate query results into clear, actionable recommendations
+
+Top analytics roles demand more than accurate queries. They require strategic thinking, stakeholder empathy, and the ability to connect data to business outcomes.
+
+This project is designed to help build that mindset.
+
+## What You'll Find in Each Notebook
+Each notebook includes:
+
+**A business-style framing of the original SQL interview prompt**  
+Instead of starting with a technical challenge, I reframe it as a stakeholder request tied to business goals and decision-making.
+
+**A clean, well-documented solution using PostgreSQL**
+Each query is written with clarity and follows best practices. I explain each step to ensure the logic is easy to follow and adaptable.
+
+**A breakdown of insights and potential stakeholder actions**
+After solving the query, I interpret the results in a business context by highlighting what decisions the data can inform and what actions might follow.
+
+The goal is not just to solve a coding puzzle, but to treat each challenge as a business problem requiring structure, clarity, and strategic thinking.
 
 ## Tools & Technologies
 - SQL (PostgreSQL syntax)
 - Python (for synthetic data generation)
 - Google Colab (for notebook-based solutions)
 - Git & GitHub (for version control and documentation)
-
-##  How to Use
-
-1. **Fork or Clone** this repository to your local environment or GitHub account.
-2. Each challenge is contained in its own **Google Colab notebook** (`.ipynb` format).
-3. Open the notebook directly in Google Colab.
-4. Review the original problem, explore the step-by-step breakdown, and study the final SQL solution.
-5. Modify or practice writing your own solution as needed.
-
-Happy querying!
+  
