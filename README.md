@@ -24,16 +24,13 @@ This project is designed to help build that mindset.
 ## What You'll Find in Each Notebook
 Each notebook includes:
 
-**A business-style framing of the original SQL interview prompt**  
-Instead of starting with a technical challenge, I reframe it as a stakeholder request tied to business goals and decision-making.
+- The original SQL interview prompt to provide context and show the technical challenge as it was presented.
+- Python code to generate mock data that lets you run and test queries in a self-contained environment without relying on external databases.
+- A business-style reframing of the prompt that translates the technical question into a real stakeholder request focused on business goals and decision-making.
+- A clean, well-documented solution using PostgreSQL with step-by-step explanations to help you follow the logic and apply best practices.
+- A breakdown of insights and recommended stakeholder actions that interprets the query results in a business context and suggests how they can drive decisions.
 
-**A clean, well-documented solution using PostgreSQL**
-Each query is written with clarity and follows best practices. I explain each step to ensure the logic is easy to follow and adaptable.
-
-**A breakdown of insights and potential stakeholder actions**
-After solving the query, I interpret the results in a business context by highlighting what decisions the data can inform and what actions might follow.
-
-The goal is not just to solve a coding puzzle, but to treat each challenge as a business problem requiring structure, clarity, and strategic thinking.
+This approach ensures each notebook is not just a coding exercise, but a full walkthrough from problem understanding to actionable insight.
 
 ## Tools & Technologies
 - SQL (PostgreSQL syntax)
